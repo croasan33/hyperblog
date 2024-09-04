@@ -5,6 +5,13 @@ body
      font-family: 'Times New Roman', Times, serif;
 
 }
+#cabecera
+{
+    background: #712222;
+    color: #DDD;
+    margin: 0px;
+    padding: 0.5em;
+}
 #container 
 {
     width: 70%;
